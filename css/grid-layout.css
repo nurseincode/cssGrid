@@ -12,9 +12,9 @@ img {
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-gap: 1rem;
+    grid-gap: 1rem; /* 10px, 2vw, */
     /* grid-auto-rows: 25vh; */
-    /* grid-template-rows: 300px 300px 300px ; */
+    /* grid-template-rows: 300px 300px 300px; */
     margin: 0 auto;
     /* max-width: 800px; */
 }
